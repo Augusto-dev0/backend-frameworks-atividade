@@ -1,4 +1,4 @@
-# Back-End Frameworks — Atividade Prática
+# Back-End Frameworks - Atividade Prática
 
 Aplicação Spring Boot desenvolvida como atividade prática da disciplina Back-End Frameworks, com o objetivo de aplicar os conceitos de Controller, Service e Injeção de Dependência.
 
